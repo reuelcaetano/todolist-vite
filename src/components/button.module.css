@@ -1,0 +1,17 @@
+.button {
+  background-color: var(--blue-500);
+  color: var(--gray-100);
+  width: 90px;
+  height: 52px;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.875rem;
+  font-weight: bold;
+}
+
+.button div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
